@@ -1,3 +1,3 @@
 # demo-project
 this is my first repo
-auther = irfan pn
+auther = irfan p najeeb
